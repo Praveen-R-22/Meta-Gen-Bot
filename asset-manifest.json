@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Meta-Gen-Bot/static/css/main.e6c13ad2.css",
-    "main.js": "/Meta-Gen-Bot/static/js/main.f56f0346.js",
+    "main.js": "/Meta-Gen-Bot/static/js/main.dc6155c4.js",
     "static/js/453.a253d4f0.chunk.js": "/Meta-Gen-Bot/static/js/453.a253d4f0.chunk.js",
     "static/media/analytics_hub_logo.png": "/Meta-Gen-Bot/static/media/analytics_hub_logo.0993ed698e2fdb5e7cc1.png",
     "static/media/analytics_hub_logo_with_text.png": "/Meta-Gen-Bot/static/media/analytics_hub_logo_with_text.f0cb3053aecc7b37e1f4.png",
     "index.html": "/Meta-Gen-Bot/index.html",
     "main.e6c13ad2.css.map": "/Meta-Gen-Bot/static/css/main.e6c13ad2.css.map",
-    "main.f56f0346.js.map": "/Meta-Gen-Bot/static/js/main.f56f0346.js.map",
+    "main.dc6155c4.js.map": "/Meta-Gen-Bot/static/js/main.dc6155c4.js.map",
     "453.a253d4f0.chunk.js.map": "/Meta-Gen-Bot/static/js/453.a253d4f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f56f0346.js"
+    "static/js/main.dc6155c4.js"
   ]
 }
