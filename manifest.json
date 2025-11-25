@@ -1,0 +1,25 @@
+{
+  "short_name": "Analytix-Hub",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "analytics_hub_logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "analytics_hub_logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "analytics_hub_logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
