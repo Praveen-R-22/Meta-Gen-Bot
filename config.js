@@ -1,4 +1,4 @@
 // public/config.js
 window.env = {
-  API_URL: "http://localhost:5000"
+  API_URL: "https://react-backend-data-and-analytics-practice.onrender.com"
 };
